@@ -1,0 +1,15 @@
+E:\Excercise\Donet-Bootcamp-2\Excercise_1\bin\Debug\net8.0\Excercise_1.exe
+E:\Excercise\Donet-Bootcamp-2\Excercise_1\bin\Debug\net8.0\Excercise_1.deps.json
+E:\Excercise\Donet-Bootcamp-2\Excercise_1\bin\Debug\net8.0\Excercise_1.runtimeconfig.json
+E:\Excercise\Donet-Bootcamp-2\Excercise_1\bin\Debug\net8.0\Excercise_1.dll
+E:\Excercise\Donet-Bootcamp-2\Excercise_1\bin\Debug\net8.0\Excercise_1.pdb
+E:\Excercise\Donet-Bootcamp-2\Excercise_1\obj\Debug\net8.0\Excercise_1.GeneratedMSBuildEditorConfig.editorconfig
+E:\Excercise\Donet-Bootcamp-2\Excercise_1\obj\Debug\net8.0\Excercise_1.AssemblyInfoInputs.cache
+E:\Excercise\Donet-Bootcamp-2\Excercise_1\obj\Debug\net8.0\Excercise_1.AssemblyInfo.cs
+E:\Excercise\Donet-Bootcamp-2\Excercise_1\obj\Debug\net8.0\Excercise_1.csproj.CoreCompileInputs.cache
+E:\Excercise\Donet-Bootcamp-2\Excercise_1\obj\Debug\net8.0\Excercise_1.sourcelink.json
+E:\Excercise\Donet-Bootcamp-2\Excercise_1\obj\Debug\net8.0\Excercise_1.dll
+E:\Excercise\Donet-Bootcamp-2\Excercise_1\obj\Debug\net8.0\refint\Excercise_1.dll
+E:\Excercise\Donet-Bootcamp-2\Excercise_1\obj\Debug\net8.0\Excercise_1.pdb
+E:\Excercise\Donet-Bootcamp-2\Excercise_1\obj\Debug\net8.0\Excercise_1.genruntimeconfig.cache
+E:\Excercise\Donet-Bootcamp-2\Excercise_1\obj\Debug\net8.0\ref\Excercise_1.dll
